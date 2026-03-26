@@ -1,8 +1,9 @@
 Don't use it , have to implement lots of stuff (ruby text(furigana)/color/proper scene handling/and more ig)
+The main reason this tool exist is for MLT purpose.
 
 1. Generate disassembly with https://github.com/crskycode/EntisGLS_Tools.
 2. use parse.py to parse them into json.
-3. I guess then create a script to find and replace them on the extracted strings file you get from csxtoolplus.
+3. I guess then create a script to find and replace them on the extracted strings file you get from csxtoolplus , don't wanna mess with the disassembly though it should be fine.
 
 Benifits?
 You will get character name , dialogue , choice , scene name.
